@@ -1,5 +1,5 @@
 # My Excel Projects
-Those are my two Excel projects showcasing my Excel skills (click projects titles to navegante to them).
+Those are my two Excel projects showcasing my Excel skills (click projects titles to navigante to them).
 
 ## [Salary Dashboard Project](Project_1-Dashboard)
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being fairly compensated.  
