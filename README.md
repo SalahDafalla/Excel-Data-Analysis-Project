@@ -1,19 +1,31 @@
 # My Excel Projects
 
-Below are two Excel projects that demonstrate my Excel skills. Click on the project titles to explore each project.
+Welcome to my Excel portfolio. Below are two projects that showcase my skills in **data analysis, dashboard design, and Excel-based insights**.
 
-## [Salary Dashboard Project](Project_1-Dashboard)
+## 📊 Projects Overview
 
-This data jobs salary dashboard helps job seekers explore salary trends for their desired roles and better understand how compensation varies across different data-related positions.
+### [Salary Dashboard Project](Project_1-Dashboard)
+An interactive Excel dashboard built to help job seekers explore salary trends across data-related roles and understand how compensation varies by job title, country, and schedule type.
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![Salary Dashboard Preview](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
----
-
-## [Salary Analysis Project](Project_2-Analysis)
-
-As a job seeker, I’m often surprised by how little data exists on the most valuable jobs and skills in the data science market. This project analyzes which skills top employers request and what it takes to land higher-paying roles.
+### [Salary Analysis Project](Project_2-Analysis)
+A data analysis project focused on identifying the most valuable jobs and skills in the data science market, with insights into what top employers look for and how those factors connect to higher-paying roles.
 
 ![Project Analysis Chart1](/0_Resources/Images/2_Project_Analysis_Chart1.png)
 
 ![Project Analysis Chart3](/0_Resources/Images/2_Project_Analysis_Chart3.png)
+
+## 🛠 Skills Highlighted
+
+Across these projects, I use Excel for:
+
+- Data cleaning
+- Data analysis
+- Dashboard creation
+- Data visualization
+- Formula-based insights
+
+## 📌 Purpose
+
+These projects reflect how I use Excel to turn raw data into clear, practical insights that support better decision-making.
